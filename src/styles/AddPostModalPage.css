@@ -1,0 +1,8 @@
+.addPostButton {
+    font-size: 45px;
+    color: #1F4788;
+}
+.addPostButton:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}

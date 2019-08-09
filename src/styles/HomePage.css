@@ -1,0 +1,23 @@
+.card {
+    margin: 20px;
+    padding: 20px;
+    height: 100%;
+    width:100%;
+}
+
+.detailsButton {
+}
+
+.listItem {
+    margin: 10px;
+}
+
+.simpleText {
+    display: block;
+    font-size: 10px;
+}
+
+.fakeLink {
+    color: blue;
+    text-decoration: underline;
+}

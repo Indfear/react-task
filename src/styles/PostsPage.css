@@ -1,0 +1,37 @@
+.miniHeader {
+    height: 150px;
+}
+
+.deleteButton {
+    font-size: 35px;
+    color: #1F4788;
+}
+
+.backButtonIcon {
+    font-size: 25px;
+}
+
+.backButtonIcon, .backButtonText {
+    color: #1F4788;
+}
+
+.postLink {
+    color: black;
+}
+
+.postLink:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.listItem:hover {
+    background-color: lightgray;
+    -webkit-transition: background-color 200ms linear;
+    -ms-transition: background-color 200ms linear;
+    transition: background-color 200ms linear;
+}
+
+.miniArrowIcon {
+    color: #1F4788;
+    font-size: 35px;
+}
